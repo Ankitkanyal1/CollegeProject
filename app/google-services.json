@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293607232518",
+    "project_id": "chatten-fdede",
+    "storage_bucket": "chatten-fdede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293607232518:android:bed27369cfccee7caf9f87",
+        "android_client_info": {
+          "package_name": "com.example.chatten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293607232518-ctqq3ldt2iqffaban42kfjsqik5j7f3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACZuy-GkRDkqH2tEEaeBn_dkdhpSlQCPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293607232518-ctqq3ldt2iqffaban42kfjsqik5j7f3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

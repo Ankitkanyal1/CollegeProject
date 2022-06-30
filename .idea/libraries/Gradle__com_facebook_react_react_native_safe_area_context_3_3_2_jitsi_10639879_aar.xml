@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-safe-area-context:3.3.2-jitsi-10639879@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8b06839ccb236aab9e3176b406b3fb54/transformed/jetified-react-native-safe-area-context-3.3.2-jitsi-10639879/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8b06839ccb236aab9e3176b406b3fb54/transformed/jetified-react-native-safe-area-context-3.3.2-jitsi-10639879/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8b06839ccb236aab9e3176b406b3fb54/transformed/jetified-react-native-safe-area-context-3.3.2-jitsi-10639879/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-safe-area-context/3.3.2-jitsi-10639879/60188578545dcf5a590df9456272a5a931c299bd/react-native-safe-area-context-3.3.2-jitsi-10639879-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

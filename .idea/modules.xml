@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chatten.iml" filepath="$PROJECT_DIR$/.idea/modules/Chatten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Chatten.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Chatten.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrary/Chatten.mylibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrary/Chatten.mylibrary.iml" />
+    </modules>
+  </component>
+</project>

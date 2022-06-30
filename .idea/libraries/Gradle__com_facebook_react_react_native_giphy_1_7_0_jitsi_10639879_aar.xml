@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-giphy:1.7.0-jitsi-10639879@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/af03205c4a9c1180c08c5fc49f8ee34d/transformed/jetified-react-native-giphy-1.7.0-jitsi-10639879/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/af03205c4a9c1180c08c5fc49f8ee34d/transformed/jetified-react-native-giphy-1.7.0-jitsi-10639879/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/af03205c4a9c1180c08c5fc49f8ee34d/transformed/jetified-react-native-giphy-1.7.0-jitsi-10639879/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-giphy/1.7.0-jitsi-10639879/49913559f9bb71dda0f74284beec12ba79107181/react-native-giphy-1.7.0-jitsi-10639879-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

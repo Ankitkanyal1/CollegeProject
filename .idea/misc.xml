@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/backgroundbox.xml" value="0.1255" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/backgroundoval.xml" value="0.1255" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/button_style.xml" value="0.1385" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/button_style_2.xml" value="0.1385" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/button_style_rounded.xml" value="0.1385" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/button_style_rounded_2.xml" value="0.1385" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/circle_green.xml" value="0.123" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/circle_orange.xml" value="0.123" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/ic_back.xml" value="0.1385" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/ic_call.xml" value="0.1" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1385" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/ic_left_arrow.xml" value="0.1575" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/ic_next.xml" value="0.1385" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/ic_send.xml" value="0.123" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/item_sent.xml" value="0.1255" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/linear_bg.xml" value="0.1385" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/receive_drawable.xml" value="0.1255" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/seleted.xml" value="0.12" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/sent_drawable.xml" value="0.1255" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/textbox.xml" value="0.1385" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/drawable/unselected.xml" value="0.1385" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/activity_about_us.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/activity_chat.xml" value="0.2" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/activity_get_started.xml" value="0.152" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/activity_group_chat.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/activity_help.xml" value="0.36492890995260663" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/activity_mai2e2.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/activity_main.xml" value="0.2755102040816326" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/activity_otp.xml" value="0.4177215189873418" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/activity_phone_no.xml" value="0.2" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/activity_privacy_policy.xml" value="0.3551912568306011" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/activity_profile2.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/activity_proflie.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/activity_setting.xml" value="0.176" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/activity_slide.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/activity_video.xml" value="0.2359375" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/delete_dialog.xml" value="0.1" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/demo_layout.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/demo_status.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/fragment_blank.xml" value="0.264" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/item_receive.xml" value="0.536" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/item_receive_group.xml" value="0.536" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/item_send_group.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/item_sent.xml" value="0.5970873786407767" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/item_sent_group.xml" value="0.4" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/item_status.xml" value="0.4" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/row_conversion.xml" value="0.536" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/sdfds.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/sfdfd.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/sfdsfs.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/layout/slide_screen.xml" value="0.46647230320699706" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/menu/chat_menu.xml" value="0.536" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/menu/topitems.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/menu/topmenu.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/menu/video_menu.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/Chatten/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

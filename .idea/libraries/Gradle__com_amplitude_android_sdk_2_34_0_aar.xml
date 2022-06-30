@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amplitude:android-sdk:2.34.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3c7ccbba55a27d709d19d254ec5b6cad/transformed/jetified-android-sdk-2.34.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3c7ccbba55a27d709d19d254ec5b6cad/transformed/jetified-android-sdk-2.34.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3c7ccbba55a27d709d19d254ec5b6cad/transformed/jetified-android-sdk-2.34.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amplitude/android-sdk/2.34.0/ccc61d928d2a7283b88893d870d20afb113845e2/android-sdk-2.34.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amplitude/android-sdk/2.34.0/91628124b0cbfe0c93396e86bb6522391446bdf4/android-sdk-2.34.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
