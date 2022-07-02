@@ -1,2 +1,3 @@
-# CollegeProject
+
  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=C+O+L+L+E+G+E+" "+P+R+O+J+E+C+T)](https://git.io/typing-svg)
